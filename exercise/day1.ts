@@ -14,3 +14,4 @@ const bedaHari = bedaTanggal / (1000 * 3600 * 24);
 console.log("hasilya : ", bedaHari);
 
 console.log("hello");
+console.log("hello");
