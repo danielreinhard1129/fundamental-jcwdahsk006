@@ -11,4 +11,6 @@ const date1 = new Date("2022-01-20");
 const date2 = new Date("2022-01-22");
 const bedaTanggal = Math.abs(date1.getTime() - date2.getTime());
 const bedaHari = bedaTanggal / (1000 * 3600 * 24);
-console.log(bedaHari);
+console.log("hasilya : ", bedaHari);
+
+console.log("hello");
